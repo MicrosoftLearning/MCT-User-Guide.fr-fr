@@ -24,4 +24,4 @@ Vous pouvez commenter les demandes d’extraction et les propositions de modific
 
 5.	Cliquez sur **Comment** (Commentaire).
 
-    > **Remarque **: Si vous souhaitez formuler un commentaire général sur le commit, sous n comments on commit (n commentaires sur le commit), où n correspond au nombre de commentaires soumis, puis sous l’onglet Write (Écrire), dans la zone de texte Leave a comment (Laisser un commentaire), entrez votre commentaire et cliquez sur Comment on this commit (Commentaire sur ce commit).
+    > **Remarque**: Si vous souhaitez formuler un commentaire général sur le commit, sous n comments on commit (n commentaires sur le commit), où n correspond au nombre de commentaires soumis, puis sous l’onglet Write (Écrire), dans la zone de texte Leave a comment (Laisser un commentaire), entrez votre commentaire et cliquez sur Comment on this commit (Commentaire sur ce commit).

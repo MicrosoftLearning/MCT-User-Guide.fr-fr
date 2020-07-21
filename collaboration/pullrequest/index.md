@@ -20,7 +20,7 @@ Vous pouvez réviser et commenter les modifications apportées par d’autres ut
 
 1.	Cliquez sur **Branch : branchname** (Branche : branchname), puis dans la liste **Branches**, sélectionnez la branche que vous souhaitez copier.
 
-    > **Remarque **:	S'il n’y a qu'une seule branche, la liste déroulante **Branch** (Branches) affiche **Branch: master** (Branche : principale) et la seule branche disponible est **master** (principale).
+    > **Remarque**:	S'il n’y a qu'une seule branche, la liste déroulante **Branch** (Branches) affiche **Branch: master** (Branche : principale) et la seule branche disponible est **master** (principale).
 
 3.	Dans la zone de texte vide, entrez le nom de la branche que vous souhaitez créer.
 
