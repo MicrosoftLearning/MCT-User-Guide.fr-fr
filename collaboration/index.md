@@ -10,4 +10,4 @@ Vous pouvez configurer votre expérience GitHub de manière à recevoir des noti
 | [Problèmes](issue/) | Un problème (issue) est une suggestion, une question ou une demande se rapportant à un référentiel. Chaque problème inclut sa propre discussion, et vous pouvez vous inscrire à des questions, ou alors GitHub vous inscrit automatiquement aux problèmes que vous créez. |
 | [Mentions](mention/) | Lorsqu’un autre utilisateur vous mentionne dans une conversation, en utilisant votre nom d’utilisateur GitHub (@username), GitHub vous inscrit automatiquement à la discussion. |
 
-> **Remarque **: Vous pouvez modifier comment et quand vous recevez des notifications, et vous pouvez également vous désinscrire d'une sélection de discussions ou de la totalité.
+> **Remarque**: Vous pouvez modifier comment et quand vous recevez des notifications, et vous pouvez également vous désinscrire d'une sélection de discussions ou de la totalité.
