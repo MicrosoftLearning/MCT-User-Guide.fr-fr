@@ -16,6 +16,6 @@ GitHub ne doit pas être utilisé pour discuter du contenu technique du cours, n
 
 ## Sections
 
-- [Terminologie GitHub](terminology/)
+- [Terminologie GitHub](terminology/) 
 
 - [Recevoir des notifications de mise à jour, suggérer des modifications et collaborer sur des projets](collaboration/)
