@@ -1,6 +1,6 @@
+title: 'Guide de l'utilisateur GitHub pour les instructeurs MCT'
 remote_theme: MicrosoftLearning/Jekyll-Theme
 exclude:
-  - readme.md
   - .github/
 header_pages:
   - index.html
