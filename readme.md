@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # Guide de l’utilisateur GitHub pour les Microsoft Certified Trainer (MCT)
 
 Les services cloud, tels que Microsoft Azure, sont fréquemment mis à jour, ce qui entraîne des problèmes pour les Microsoft Certified Trainers (MCT), car ils enseignent des cours et les étapes de labos ne correspondent plus à nos services cloud. . En raison de la fréquence des modifications et du fait qu’il est possible qu’il n’y ait aucune notification lorsque des modifications se produisent, il peut être difficile pour l’équipe de développement de cours d’identifier et d’ajuster rapidement les modifications apportées au labo.
